@@ -1,9 +1,5 @@
 package qr_code;
 
-/**
- * Hello world!
- *
- */
 // Java code to generate QR code
 import java.io.File;
 import java.io.IOException;
